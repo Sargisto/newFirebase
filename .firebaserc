@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "my-project-1-304208": {
+      "hosting": {
+        "angular-fire-app": [
+          "my-project-1-304208"
+        ]
+      }
+    },
+    "angular-firebase-demo-42f8b": {
+      "hosting": {
+        "angular-fire-app": [
+          "angular-firebase-demo-42f8b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-demo-42f8b"
+  }
+}
